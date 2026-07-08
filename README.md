@@ -1,3 +1,4 @@
+<img width="992" height="801" alt="Screenshot 2026-07-08 at 3 04 39 AM" src="https://github.com/user-attachments/assets/193835ef-bfe8-4c53-9c96-70e5b5e0b637" />
 # insurance_claims_tableau_analysis
 
 Data Description
