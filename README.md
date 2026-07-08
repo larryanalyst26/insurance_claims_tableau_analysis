@@ -3,7 +3,7 @@
 
 Data Description
 
-I am using an insurance dataset from Kaggle which is using partially real data points and partially synthetic data points. This table’s rows each represent a policyholder. The table has the following columns: Age, Is_Senior, Marital_Status, Married_Premium_Discount, Prior_Insurance, Prior_Insurance_Premium_Adjustment, Claims_Frequency, Claims_Severity, Claims_Adjustment, Policy_Type, Policy_Adjustment, Premium_Amount, Safe_Driver_Discount, Multi_Policy_Discount, Bundling_Discount, Total_Discounts, Source_of_Lead, Time_Since_First_Contact, Conversion_Status, Website_Visits, Inquiries, Quotes_Requested, Time_to_Conversion, Credit_Score, Premium_Adjustment_Credit, Region, and Premium_Adjustment_Region.
+I am using an insurance dataset from Kaggle which is using partially real data points and partially synthetic data points. This table’s rows each represent a policyholder. There are 10,000 total rows. The table has the following columns: Age, Is_Senior, Marital_Status, Married_Premium_Discount, Prior_Insurance, Prior_Insurance_Premium_Adjustment, Claims_Frequency, Claims_Severity, Claims_Adjustment, Policy_Type, Policy_Adjustment, Premium_Amount, Safe_Driver_Discount, Multi_Policy_Discount, Bundling_Discount, Total_Discounts, Source_of_Lead, Time_Since_First_Contact, Conversion_Status, Website_Visits, Inquiries, Quotes_Requested, Time_to_Conversion, Credit_Score, Premium_Adjustment_Credit, Region, and Premium_Adjustment_Region.
 
 Problem Description
 
